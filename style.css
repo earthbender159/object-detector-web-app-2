@@ -1,0 +1,29 @@
+body{
+    background-size: cover; 
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color: #49906e;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey; 
+    border-radius: 10px; 
+}
+
+#bedroom_button{
+    width: 80%;border-radius: 15px;
+}
+
+#fruit_button{
+    width: 80%;border-radius: 15px;
+}
